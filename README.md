@@ -1,1 +1,1 @@
-https://github.com/Rahat-Hridoy/YourBank/settings/pages
+https://rahat-hridoy.github.io/YourBank/
